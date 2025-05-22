@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=2563EB&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🔬+Postdoctoral+Researcher+%7C+UCLA+Department+of+Neurology;⚡+Biomedical+Engineering+%26+Advanced+Neurotechnology;🧠+Miniaturized+Electrophysiology+%26+Quantum+Sensing+Systems;🌐+Open+Science+%26+Translational+Medical+Device+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=2563EB&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚛️+Quantum+Engineer+%7C+UCLA+Department+of+Neurology;🧠+Neuroengineer+%7C+Advanced+Medical+Technology;🔬+Miniaturized+Systems+%26+Quantum+Sensing)](https://git.io/typing-svg)
 
 </div>
 
@@ -158,11 +158,5 @@ mindmap
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:2563eb&height=120&section=footer&text=Advancing%20Neurotechnology%20Through%20Innovation&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=75)
-
-</div>
-
-<div align="center">
-
-*"Bridging the gap between cutting-edge neuroscience and practical medical solutions through innovative engineering and collaborative research."*
 
 </div>

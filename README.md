@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Quantum+Engineer;Neuroengineer" alt="Professional Title" />
-</h1>
+# Quantum Engineer | Neuroengineer
 
 </div>
 

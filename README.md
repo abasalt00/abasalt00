@@ -11,13 +11,8 @@
 </td>
 <td width="33%">
 ### 🛠️ Technical Stack
-- **Languages:** 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30" height="30" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/>
-- **Hardware:** 
-  <img src="https://www.kicad.org/img/kicad_logo_small.png" width="30" height="30" alt="KiCad"/>
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/logos/autodesk-logo-primary-rgb-black-large.png" width="80" height="20" alt="Autodesk"/>
+- **Languages:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="20" height="20" alt="MATLAB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20" alt="C++"/>
+- **Hardware:** <img src="https://www.kicad.org/img/kicad_logo_small.png" width="20" height="20" alt="KiCad"/> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/logos/autodesk-logo-primary-rgb-black-large.png" width="60" height="15" alt="Autodesk"/>, ...
 - **Domains:** Signal Processing, Bioengineering
 - **Platforms:** Lab Equipment Integration
 </td>

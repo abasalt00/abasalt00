@@ -19,11 +19,8 @@
 </td>
 <td width="33%">
 
-### Technical Stack
-- **Languages:** Python, MATLAB, C++
-- **Hardware:** KiCad, Autodesk Suite
-- **Domains:** Signal Processing, Bioengineering
-- **Platforms:** Lab Equipment Integration
+### 🌊 Neural Signal Waves
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasalt00&bg_color=ffffff&color=2563eb&line=3b82f6&point=374151&area=true&hide_border=true&custom_title=Neural%20Activity%20Patterns)
 
 </td>
 <td width="33%">

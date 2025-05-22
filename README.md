@@ -42,16 +42,3 @@
 
 </div>
 
-
-<div align="center">
-
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=abasalt00&color=2563eb&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/abasalt00?color=3b82f6&style=flat-square&label=Followers)](https://github.com/abasalt00)
-
-**Building the future of neurotechnology through quantum engineering**
-
-</div>

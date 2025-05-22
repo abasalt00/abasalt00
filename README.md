@@ -28,8 +28,8 @@
 </td>
 <td width="33%">
 
-### 🐍 Neural Network Growth
-![Snake animation](https://github.com/abasalt00/abasalt00/blob/output/github-contribution-grid-snake.svg)
+markdown### 🚀 Quantum Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=2563EB&width=300&lines=Python+%7C+Neural+Processing;MATLAB+%7C+Signal+Analysis;C%2B%2B+%7C+Hardware+Control;KiCad+%7C+Circuit+Design" alt="Tech Stack" />
 
 </td>
 </tr>

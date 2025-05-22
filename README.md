@@ -4,7 +4,6 @@
 
 *Developing next-generation neural interfaces through quantum sensing and miniaturized electrophysiology*
 
-</div>
 
 
 <table>

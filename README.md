@@ -1,12 +1,11 @@
 <div align="center">
 
-# 🧬 Quantum Engineer | Neuroengineer
+# Quantum Engineer | Neuroengineer
 
 *Developing next-generation neural interfaces through quantum sensing and miniaturized electrophysiology*
 
 </div>
 
----
 
 <table>
 <tr>

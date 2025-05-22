@@ -28,12 +28,8 @@
 </td>
 <td width="33%">
 
-markdown### 🧠 Neural Interface Analytics
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&width=435&lines=Quantum+sensing+active...;Neural+patterns+detected...;Interface+optimization+running..." alt="Status" />
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasalt00&bg_color=ffffff&color=2563eb&line=3b82f6&point=374151&area=true&hide_border=true&height=300&custom_title=Neural%20Activity%20Patterns)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🐍 Neural Network Growth
+![Snake animation](https://github.com/abasalt00/abasalt00/blob/output/github-contribution-grid-snake.svg)
 
 </td>
 </tr>

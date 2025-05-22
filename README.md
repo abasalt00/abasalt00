@@ -10,40 +10,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-### 🎓 **ACADEMIC PROFILE**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🏛️ INSTITUTIONAL AFFILIATION**
-<br>
-<img src="https://img.shields.io/badge/UCLA-Neurology%20Department-003B5C?style=for-the-badge&logo=university&logoColor=white"/>
-<br><br>
-**📋 POSITION**
-<br>
-<img src="https://img.shields.io/badge/Postdoctoral-Researcher-1E40AF?style=for-the-badge&logo=microscope&logoColor=white"/>
-
-</td>
-<td align="center" width="50%">
-
-**🔬 RESEARCH DOMAIN**
-<br>
-<img src="https://img.shields.io/badge/Biomedical-Engineering-059669?style=for-the-badge&logo=dna&logoColor=white"/>
-<br><br>
-**🎯 SPECIALIZATION**
-<br>
-<img src="https://img.shields.io/badge/Neurotechnology-Development-7C3AED?style=for-the-badge&logo=brain&logoColor=white"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -148,28 +115,6 @@ mindmap
 
 <div align="center">
 
-### 📊 **RESEARCH ACTIVITY ANALYTICS**
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abasalt00&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=3b82f6&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=false&custom_title=Research%20Contributions%20Analytics)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=abasalt00&theme=default&hide_border=true&stroke=2563eb&ring=3b82f6&fire=ef4444&currStreakNum=374151&sideNums=374151&currStreakLabel=2563eb&sideLabels=2563eb&dates=6b7280&background=ffffff)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasalt00&theme=minimal&hide_border=true&bg_color=ffffff&color=374151&line=2563eb&point=3b82f6&area=true&area_color=dbeafe&custom_title=Development%20Activity%20Timeline)
-
-</div>
-
----
-
-<div align="center">
-
 ### 🏆 **ACHIEVEMENT PORTFOLIO**
 
 </div>
@@ -194,20 +139,6 @@ mindmap
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abasalt00&theme=default" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abasalt00&theme=default" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abasalt00&theme=default" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abasalt00&theme=default&utc_offset=8" width="48%"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -219,78 +150,6 @@ mindmap
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abasalt00&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=374151&bg_color=ffffff&langs_count=8&custom_title=Technical%20Language%20Proficiency)
-
-</div>
-
-<div align="center">
-
-```python
-# Research Technology Stack
-research_stack = {
-    "Hardware": ["Electrophysiology Systems", "PCB Design", "Sensor Integration"],
-    "Software": ["Signal Processing", "Data Acquisition", "Real-time Analysis"],
-    "Quantum": ["NV Centers", "Quantum Sensing", "Magnetic Field Detection"],
-    "Medical": ["Neural Interfaces", "Biocompatible Materials", "Clinical Translation"]
-}
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 **PROFESSIONAL METRICS DASHBOARD**
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=abasalt00&color=2563eb&style=for-the-badge&label=Research+Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/abasalt00?color=3b82f6&style=for-the-badge&label=Academic+Network&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/abasalt00?color=059669&style=for-the-badge&label=Project+Impact&logo=star)
-
-</div>
-
-<div align="center">
-
-### 🤝 **RESEARCH COLLABORATION**
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-**🔬 Open Science Initiatives**
-<br>
-<img src="https://img.shields.io/badge/Open%20Source-Advocate-28a745?style=for-the-badge&logo=opensource&logoColor=white"/>
-<br>
-<sub>Committed to reproducible research and collaborative innovation</sub>
-
-</td>
-<td align="center">
-
-**🌐 Academic Network**
-<br>
-<img src="https://img.shields.io/badge/Research-Collaboration-0366d6?style=for-the-badge&logo=handshake&logoColor=white"/>
-<br>
-<sub>Fostering interdisciplinary partnerships in neurotechnology</sub>
-
-</td>
-<td align="center">
-
-**📚 Knowledge Transfer**
-<br>
-<img src="https://img.shields.io/badge/Educational-Outreach-f39c12?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<br>
-<sub>Bridging academic research with practical applications</sub>
-
-</td>
-</tr>
-</table>
 
 </div>
 

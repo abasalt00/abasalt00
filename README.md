@@ -28,8 +28,12 @@
 </td>
 <td width="33%">
 
-### Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=abasalt00&theme=default&hide_border=true&background=FFFFFF&stroke=2563EB&ring=3B82F6&fire=2563EB&currStreakNum=374151&sideNums=374151&currStreakLabel=2563EB&sideLabels=374151&dates=374151)](https://git.io/streak-stats)
+markdown### 🧠 Neural Interface Analytics
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&width=435&lines=Quantum+sensing+active...;Neural+patterns+detected...;Interface+optimization+running..." alt="Status" />
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasalt00&bg_color=ffffff&color=2563eb&line=3b82f6&point=374151&area=true&hide_border=true&height=300&custom_title=Neural%20Activity%20Patterns)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td>
 </tr>

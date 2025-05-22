@@ -1,18 +1,50 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=120&section=header&text=Research%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Quantum+Engineer;Neuroengineer" alt="Professional Title" />
+</h1>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔬 **PROFESSIONAL OVERVIEW**
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=2563EB&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚛️+Quantum+Engineer;🧠+Neuroengineer;🔬+Miniaturized+Systems+%26+Quantum+Sensing)](https://git.io/typing-svg)
+<table width="90%">
+<tr>
+<td align="center">
+
+I specialize in developing **miniaturized electrophysiology systems** and **quantum sensing technologies** for next-generation neural interfaces. My work focuses on creating modular, scalable solutions that bridge the gap between cutting-edge quantum physics and practical neurotechnology applications.
+
+**Core expertise** includes designing ultra-compact neural recording devices, implementing **nitrogen-vacancy (NV) center** quantum sensors for magnetic field detection, and developing open-source platforms for translational medical device research.
+
+My research contributes to advancing **precision neuroscience** through innovative hardware-software integration, enabling new possibilities in brain-computer interfaces, neuroprosthetics, and quantum-enhanced biosensing systems.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 <div align="center">
 
@@ -66,7 +98,11 @@ mindmap
 </tr>
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
 
 <div align="center">
 
@@ -111,7 +147,11 @@ mindmap
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600">
+
+</div>
 
 <div align="center">
 
@@ -139,7 +179,11 @@ mindmap
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-a1a9-7b0b2e2b7556.gif" width="450">
+
+</div>
 
 <div align="center">
 

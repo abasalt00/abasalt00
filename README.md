@@ -40,7 +40,7 @@ My research contributes to advancing **precision neuroscience** through innovati
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+![Contribution Snake](https://github.com/abasalt00/abasalt00/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -98,7 +98,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abasalt00&bg_color=ffffff&color=2563eb&line=3b82f6&point=2563eb&area=true&area_color=dbeafe&hide_border=true&custom_title=Development%20Activity" width="100%">
 
 </div>
 
@@ -147,7 +147,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600">
+![GitHub Metrics](https://metrics.lecoq.io/abasalt00?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FLos_Angeles)
 
 </div>
 
@@ -179,7 +179,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd9-a1a9-7b0b2e2b7556.gif" width="450">
+![Profile Views](https://komarev.com/ghpvc/?username=abasalt00&color=2563eb&style=for-the-badge&label=Profile+Views)
 
 </div>
 

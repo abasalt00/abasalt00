@@ -40,15 +40,8 @@
 
 <div align="center">
 
-## 🏆 Additional Metrics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abasalt00&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=374151&bg_color=ffffff&langs_count=5&custom_title=Languages)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abasalt00&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories)
-
 </div>
 
----
 
 <div align="center">
 

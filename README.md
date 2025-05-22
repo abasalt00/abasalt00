@@ -1,78 +1,91 @@
 <div align="center">
 
-# Quantum Engineer | Neuroengineer
+# 🧬 Quantum Engineer | Neuroengineer
+
+*Developing next-generation neural interfaces through quantum sensing and miniaturized electrophysiology*
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="50%">
 
-I specialize in developing miniaturized electrophysiology systems and quantum sensing technologies for next-generation neural interfaces. My work focuses on creating modular, scalable solutions that bridge quantum physics and practical neurotechnology applications.
+### 🔬 Research Focus
+- **Quantum Sensing** with NV Centers
+- **Miniaturized Neural Interfaces**
+- **Brain-Computer Interface Systems**
+- **Open-Source Medical Devices**
 
-**Core Expertise:**
-- Miniaturized neural recording devices
-- Nitrogen-vacancy (NV) center quantum sensors
-- Magnetic field detection systems
-- Open-source medical device platforms
-- Brain-computer interface development
+</td>
+<td width="50%">
 
----
+### 🛠️ Technical Stack
+- **Languages:** Python, MATLAB, C++
+- **Hardware:** KiCad, Autodesk Suite
+- **Domains:** Signal Processing, Bioengineering
+- **Platforms:** Lab Equipment Integration
 
-## Technical Skills
-
-**Programming Languages**
-- Python (Advanced)
-- MATLAB (Advanced) 
-- C++ (Proficient)
-- JavaScript (Intermediate)
-- CSS (Proficient)
-
-**Engineering & Design Tools**
-- KiCad (PCB Design)
-- Autodesk Suite (CAD)
-- Laboratory Equipment Integration
-- Signal Processing Systems
-
-**Research Specializations**
-- Quantum Sensing Technologies
-- Electrophysiology System Design
-- Neural Interface Engineering
-- Biomedical Device Development
+</td>
+</tr>
+</table>
 
 ---
-
-## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abasalt00&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=3b82f6&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=false)
+## 📊 Development Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abasalt00&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=374151&bg_color=ffffff&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abasalt00&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=3b82f6&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=false&custom_title=Contributions)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abasalt00&layout=compact&theme=default&hide_border=true&title_color=2563eb&text_color=374151&bg_color=ffffff&langs_count=5&custom_title=Languages)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abasalt00&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories)
 
 </div>
 
 ---
 
-## Research Focus Areas
+<div align="center">
 
-**Miniaturized Electrophysiology Systems**
-- Ultra-compact neural recording architectures
-- Modular sensor array development
-- Real-time signal processing implementation
+### 🎯 Current Projects
 
-**Quantum Sensing Technologies**
-- NV center magnetometry applications
-- Quantum-enhanced biosensing platforms
-- Magnetic field detection for neural activity
+</div>
 
-**Translational Neurotechnology**
-- Brain-computer interface prototyping
-- Neuroprosthetic device integration
-- Open-source hardware development
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**⚛️ Quantum Magnetometry**
+<br>
+<sub>NV center sensors for neural field detection</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🧠 Neural Interfaces**
+<br>
+<sub>Miniaturized electrophysiology systems</sub>
+
+</td>
+<td align="center" width="33%">
+
+**🔧 Open Hardware**
+<br>
+<sub>Modular neurotechnology platforms</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact & Collaboration
+<div align="center">
 
-Committed to advancing neurotechnology through innovative engineering solutions and collaborative research initiatives in quantum sensing and neural interface development.
+![Profile Views](https://komarev.com/ghpvc/?username=abasalt00&color=2563eb&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/abasalt00?color=3b82f6&style=flat-square&label=Followers)](https://github.com/abasalt00)
+
+**Building the future of neurotechnology through quantum engineering**
+
+</div>

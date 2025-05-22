@@ -2,8 +2,6 @@
 
 # Quantum Engineer | Neuroengineer
 
-*Developing next-generation neural interfaces through quantum sensing and miniaturized electrophysiology*
-
 
 
 <table>
@@ -21,7 +19,7 @@
 
 ### 🛠️ Technical Stack
 - **Languages:** Python, MATLAB, C++
-- **Hardware:** KiCad, Autodesk Suite
+- **Hardware:** KiCad, Autodesk, ...
 - **Domains:** Signal Processing, Bioengineering
 - **Platforms:** Lab Equipment Integration
 

@@ -28,9 +28,8 @@
 </td>
 <td width="33%">
 
-### 📊 Development Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abasalt00&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=3b82f6&text_color=374151&bg_color=ffffff&include_all_commits=true&count_private=false&custom_title=Stats)
+### ⚡ Quantum Contributions
+[![GitHub Streak](https://streak-stats.demolab.com?user=abasalt00&theme=default&hide_border=true&background=FFFFFF&stroke=2563EB&ring=3B82F6&fire=2563EB&currStreakNum=374151&sideNums=374151&currStreakLabel=2563EB&sideLabels=374151&dates=374151)](https://git.io/streak-stats)
 
 </td>
 </tr>

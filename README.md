@@ -45,37 +45,7 @@
 
 <div align="center">
 
-### 🎯 Current Projects
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**⚛️ Quantum Magnetometry**
-<br>
-<sub>NV center sensors for neural field detection</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🧠 Neural Interfaces**
-<br>
-<sub>Miniaturized electrophysiology systems</sub>
-
-</td>
-<td align="center" width="33%">
-
-**🔧 Open Hardware**
-<br>
-<sub>Modular neurotechnology platforms</sub>
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
